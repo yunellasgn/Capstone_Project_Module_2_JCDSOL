@@ -22,7 +22,7 @@ Sebagai seorang *data analyst*, kita akan mencoba menjawab pertanyaan berikut :
 * Menginformasikan kepada perusahaan bagaimana **karakteristik tempat penginapan** yang menjadi kebutuhan customer
 * **Merekomendasi suatu _sugestion_** sebagai tambahan/pendukung kepada perusahaan agar membooster para customer lebih antusias memberikan review sehingga jumlah review dari penginapan selain Entire room dapat meningkat, serta menghitung estimasi % keuntungan yang diperoleh perusahaan dari saran yang berikan
 
-* # **Kesimpulan** 
+# **Kesimpulan** 
 
 Dari analisis yang telah dilakukan, kita memperoleh **kesimpulan** sebagai berikut :
 
@@ -39,7 +39,7 @@ Lingkungan Khlong Tei memang menyediakan banyak tempat menarik untuk travelling 
 
 * Kita menganalisa data dari kurun waktu 2012-2022. Hasil analisa menunjukkan adanya peningkatan dari tahun 2012 sampai 2020, lalu 2021 terjadi penurunan sekitar 7 kali lipat yang disebabkan pandemi covid-19 yang menyerang sektor pariwisata. Selanjutnya, ditahun 2022 pariwisata sudah kembali bangkit meningkat 50 kali lipat. Hal ini menunjukkan sektor pariwisata Bangkok optimis akan semakin berkembang ke depannya.
 
-* Rekomendasi / **Saran** :
+Rekomendasi / **Saran** :
 
 * Sebagai tambahan, saran bersifat pendukung dari segi bisnis, untuk tipe kamar selain 'Entire home/apt' kita dapat melakukan sesuatu yang mampu meningkatkan jumlah review. Kita ketahui bahwa jumlah review pastinya berbanding lurus dengan jumlah transaksi yang berhasil. Transaksi meningkat berarti revenue perusahaan juga meningkat. 
 
